@@ -15,7 +15,7 @@ export default function App() {
 
   return (
     <Router>
-      <div className="min-h-screen flex flex-col bg-gray-100 text-gray-900">
+      <div className="flex flex-col bg-gray-100 text-gray-900">
         
         {/* Navigation Bar */}
         <nav className="absolute top-0 left-0 w-full z-20 bg-transparent text-white">
@@ -50,11 +50,11 @@ export default function App() {
         <AnimatePresence mode="wait">
           <motion.div key="page" initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -20 }} transition={{ duration: 0.5 }}>
             <div className="flex-grow flex flex-col">
-              <section id="home" className="min-h-screen"><Home /></section>
-              <section id="accommodations" className="min-h-screen"><Accommodations /></section>
-              <section id="amenities" className="min-h-screen"><Amenities /></section>
-              <section id="booking" className="min-h-screen"><Booking /></section>
-              <section id="contact" className="min-h-screen"><Contact /></section>
+              <section id="home"><Home /></section>
+              <section id="accommodations"><Accommodations /></section>
+              <section id="amenities"><Amenities /></section>
+              <section id="booking"><Booking /></section>
+              <section id="contact"><Contact /></section>
             </div>
           </motion.div>
         </AnimatePresence>
