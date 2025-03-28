@@ -30,7 +30,7 @@ export default function Home() {
                 className="relative min-h-screen flex items-center justify-center pt-16 sm:pt-20 lg:pt-24"
             >
                 <div className="absolute inset-0 bg-cover bg-center" style={{ 
-                        backgroundImage: "url('https://scontent.fmnl4-6.fna.fbcdn.net/v/t39.30808-6/481145341_1003242775187047_3910267362202590219_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFIFvyjhuZIOG0665OlFeTfFSWa1kzxDcoVJZrWTPENytaPj6cN0SvyVyiZfDKcdAGeFHboLQwpiGL9mxIuwhkG&_nc_ohc=i-CXJ68Wtt8Q7kNvgGji84a&_nc_oc=AdiqxH16cniCT1HhwrjzV3q5bBf3QK28-f7EqUFCiAtg_HnDt5VIK72MFwumfblrRbs&_nc_zt=23&_nc_ht=scontent.fmnl4-6.fna&_nc_gid=c1ZQA5N-3hYdhGXe5b904w&oh=00_AYHqAyJCjY8zcHbTZAmjqzeKYHFfzQWQW30bdYBOjPyqrw&oe=67D9B097')"}}>
+                        backgroundImage: "url('https://scontent.fmnl4-7.fna.fbcdn.net/v/t39.30808-6/481145341_1003242775187047_3910267362202590219_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFIFvyjhuZIOG0665OlFeTfFSWa1kzxDcoVJZrWTPENytaPj6cN0SvyVyiZfDKcdAGeFHboLQwpiGL9mxIuwhkG&_nc_ohc=rVow9nfXPO8Q7kNvgGuWNGQ&_nc_oc=Admdk5yovsXCUA0Eb1qDegJmJyYxEJyEcRiv17-fe1C7keFlVZYeULiXWCQ2RVJlMcU&_nc_zt=23&_nc_ht=scontent.fmnl4-7.fna&_nc_gid=uzwU3LklLWGvTfRmSCgg6A&oh=00_AYGbMKUuFCXMO2flFpfs049igbJZjsNKOSlbwRH6_OAOXw&oe=67EC5DD7')"}}>
                     <div className="absolute inset-0 w-full h-full bg-black/50"></div>
                 </div>
                 <div className="relative text-center px-4 sm:px-6 lg:px-8">
