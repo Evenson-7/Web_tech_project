@@ -21,7 +21,7 @@ const accommodations = [
   {
     name: "Duplex Villa",
     price: "₱6,500/night",
-    img: "https://scontent.fmnl4-4.fna.fbcdn.net/v/t39.30808-6/462104116_3751819008465651_2925014502288275175_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGcV5Dz5FMAAFdvjKcZTzvZXRwBqGWcSMldHAGoZZxIybEhJRGTlZ_mYUBwvmdwMOcRn34vLHvOzzPy8Zh5bXlc&_nc_ohc=C8k0rRgUcwkQ7kNvgEB9X37&_nc_oc=AdhloXajfDQf_J7GcSd-D7G5rR2mf_UCbIogIBrUAZLdd4btTJyqPlr__QHPOA5PC1o&_nc_zt=23&_nc_ht=scontent.fmnl4-4.fna&_nc_gid=YCWJpnz7GA6Y1lOI-QJNqg&oh=00_AYEjaL31UvUzoDiMvwUw7R1b22jZzsj-6l3Qf21JF0gt4A&oe=67DB2D33",
+    img: "https://scontent.fmnl4-2.fna.fbcdn.net/v/t39.30808-6/460624795_3734702270177325_4335746731748513488_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=86c6b0&_nc_eui2=AeGdo3pNGSP4vKvXwIP5QXdCzWcCl0ZkkWnNZwKXRmSRaTgBC7lB5AKR12DTgM4faGyRIYOckezebp22u99lIFQ-&_nc_ohc=YWv9lEI8HDgQ7kNvgEg97Fd&_nc_oc=AdnGU68dQ4s2QHjMXxOWJ-vT3pokDCcDYNhhyooMRU8zx1hPKy9W0k-iO6AMLnpdiHc&_nc_zt=23&_nc_ht=scontent.fmnl4-2.fna&_nc_gid=03mJ5PdUlOLhbWvC7EJMxQ&oh=00_AYEPa0VvdXY91ZRgB10okFxt41nTpc6MyF7gNEokUDUdFg&oe=67EC7F78",
     rating: 5,
     description: "A luxurious duplex villa featuring elegant design and premium furnishings.",
   },
