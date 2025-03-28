@@ -21,7 +21,7 @@ export default function App() {
         <nav className="absolute top-0 left-0 w-full z-20 bg-transparent text-white">
           <div className="container max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
             <ScrollLink to="home" smooth={true} duration={800} className="flex items-center space-x-3 cursor-pointer">
-              <img src="https://scontent.fmnl4-1.fna.fbcdn.net/v/t39.30808-6/326403783_710644914101385_4266295258903531382_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHzcDFoQfzGCz6VAsy5eMh9jOKvdLk7GtiM4q90uTsa2OXGt4f0eaT7dPKTfZqrfKkbho_CYr_EJF4CNFRKpltW&_nc_ohc=PNlMJ-fk_qIQ7kNvgHJEjqH&_nc_oc=AdgsD8QxaC4icnhIZjPPgvwr9yCL0CG22QscvQ6Pkliskfe4fQexUzSOOBnqb8vMCNY&_nc_zt=23&_nc_ht=scontent.fmnl4-1.fna&_nc_gid=sLQGEkHXhm39_yTR466XrA&oh=00_AYF_DUkRXx8CoWkjIQL2Noqb0C7xdqw5gnnj1hm5Dc_WOg&oe=67D9A8B3"
+              <img src="https://scontent.fmnl4-1.fna.fbcdn.net/v/t39.30808-6/326403783_710644914101385_4266295258903531382_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHzcDFoQfzGCz6VAsy5eMh9jOKvdLk7GtiM4q90uTsa2OXGt4f0eaT7dPKTfZqrfKkbho_CYr_EJF4CNFRKpltW&_nc_ohc=D2LWosYzSeMQ7kNvgEcu1IO&_nc_oc=AdknfYdeB8dgNeKsWqiTubu05zq5h6DVZ65-j8YYrWyXb9FlUpt4NvHUeOSTVWFyzKI&_nc_zt=23&_nc_ht=scontent.fmnl4-1.fna&_nc_gid=ehdXZ32hllwzvP9Qq-COsA&oh=00_AYFyJFFtLUwDF9H8oFwZUAKS3PP93n7IdfgnieD7Y2B7Sg&oe=67EC55F3"
                 className="h-10 w-10 rounded-full object-cover" alt="Residencia del Hamor Logo" />
               <span className="text-2xl font-semibold">Residencia del Hamor</span>
             </ScrollLink>
